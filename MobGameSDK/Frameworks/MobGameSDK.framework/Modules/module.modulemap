@@ -1,0 +1,6 @@
+framework module MobGameSDK {
+  umbrella header "MobGameSDK.h"
+
+  export *
+  module * { export * }
+}
